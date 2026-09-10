@@ -17,4 +17,4 @@ Claude-Ai , colab
 Setup:
 run the given code on colab to see the fractal image
 
-![alt text](<Fractal Image-1.png>)
+![alt text](<Fractal Image.png>)
