@@ -1,1 +1,0 @@
-the fractal design code written in python and the image has also been given and displayed 
